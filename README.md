@@ -60,3 +60,14 @@ La flexibilidad de WPF permite diseños no convencionales, pero a veces puede re
 
 The preferred IDE for .NET/WPF is **Visual Studio**, but it comes with a significant cost. Fortunately, Microsoft has made it easy and absolutely free for everyone to dive into .NET and WPF. They've introduced a no-cost version of Visual Studio called **Visual Studio Community**. Though this version has slightly fewer features than the full Visual Studio, it provides everything you need to start learning WPF and create real applications.
 
+# What is XAML?
+
+*XAML*, an acronym for eXtensible Application Markup Language, is Microsoft's variant of XML designed for describing a GUI. In contrast to previous GUI frameworks like WinForms, where the GUI was created in the same language used for interacting with it (e.g., C# or VB.NET) and typically maintained by the designer (e.g., Visual Studio), XAML takes a different approach. Similar to HTML, it allows you to easily write and edit your GUI.
+
+muchos controles permiten otro contenido diferente a texto, como otros controles. Aquí tenemos un ejemplo donde tenemos texto en diferentes colores dentro de un mismo botón. Esto se puede lograr utilizando controles TextBlock dentro del Button
+
+
+
+While this isn't a comprehensive XAML tutorial, I'll provide a brief overview of how you use it, as it's a crucial component of WPF. Whether you're crafting a Window or a Page, it will consist of a XAML document and a CodeBehind file, working in tandem to create the Window or Page. The XAML file delineates the interface with all its elements, while the CodeBehind manages events and can manipulate the XAML controls.
+
+
