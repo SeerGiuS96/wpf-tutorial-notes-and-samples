@@ -1,1 +1,1 @@
-# wpf-tutorial-notes-samples
+# wpf-tutorial-notes-and-samples
