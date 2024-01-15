@@ -53,4 +53,10 @@ La flexibilidad de WPF permite diseños no convencionales, pero a veces puede re
 - **Abundancia de Controles:** Una amplia variedad de controles de terceros disponibles de forma gratuita o para comprar.
 - **Diseñador de Visual Studio:** Hasta la fecha de redacción, el diseñador de WinForms en Visual Studio es mejor que el de WPF, donde tendrás que hacer más trabajo por ti mismo.
 
-Esta lista proporciona una visión subjetiva para ayudarte a comprender las fortalezas distintivas de WPF y WinForms según tus necesidades de desarrollo.
+
+# Visual Studio Community
+
+*WPF*, as previously described, is a fusion of XAML (markup) and C#/VB.NET/any other .NET language. While you can edit all of it in any text editor, even Notepad included in Windows, and then compile it from the command line, most developers prefer using an IDE (Integrated Development Environment) for the convenience it offers—from writing code to designing the interface and compiling it all.
+
+The preferred IDE for .NET/WPF is **Visual Studio**, but it comes with a significant cost. Fortunately, Microsoft has made it easy and absolutely free for everyone to dive into .NET and WPF. They've introduced a no-cost version of Visual Studio called **Visual Studio Community**. Though this version has slightly fewer features than the full Visual Studio, it provides everything you need to start learning WPF and create real applications.
+
